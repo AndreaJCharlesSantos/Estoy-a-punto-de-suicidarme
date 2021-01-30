@@ -1,6 +1,4 @@
 
-import numpy as np
-
 class Banco(object):
     count=0
     #Los atributos de cliente
